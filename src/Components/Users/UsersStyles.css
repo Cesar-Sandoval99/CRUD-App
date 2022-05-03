@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+.formCard {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+h1 {
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #072227;
+    height: 7rem;
+    color: #FC9918;
+    padding-top: 2rem;
+}
+.fixed {
+
+}

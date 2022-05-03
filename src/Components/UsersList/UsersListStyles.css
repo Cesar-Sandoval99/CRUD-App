@@ -1,0 +1,23 @@
+.usersCard {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;;
+    margin: 2rem;
+    padding: 0 3rem;
+    border-radius: 10px;
+    background-color: #4FBDBA;
+    border: solid black 1px;
+}
+.buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    border: none;
+    background-color: #4FBDBA;
+}
+div ul { 
+    padding: 1rem;
+}
